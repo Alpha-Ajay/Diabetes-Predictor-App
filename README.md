@@ -18,7 +18,7 @@ This Streamlit web app predicts the risk of diabetes using a Logistic Regression
 
 🚀 Demo
 
-🔗 Live Demo: Click here to try the app
+🔗 Live Demo: [Click here to try the app](https://diabetes-predictor-app-9euappcnq486zql9p32jupe.streamlit.app/)
 
 Replace the above link with your actual deployed Streamlit app link after deployment.
 ## 📊 Project Overview
