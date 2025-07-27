@@ -9,7 +9,7 @@ Welcome to the **Diabetes Risk Predictor** — a machine learning-powered web ap
 
 Built with ❤️ using **Streamlit**, this project combines medical data science, a clean UI, and real-time prediction, all presented in a lightweight web app.
 
-![App Screenshot](./plots_Screenshots/demo.png)
+![App Screenshot](Plots_Screenshots/demo.png)
 
 ---
 📌 Project Description
